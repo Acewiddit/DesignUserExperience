@@ -1,2 +1,4 @@
 # DesignUserExperience
-hello
+What this project does it that it creates a fitness website using the wireframes listed from the group project in assignment 2. Such as Header & Navigation bar; Hero Section (engaging call to action); and also a mobile-friendly design. It also shows the services we provide as a fitness group. Including a section for contact when a user is in need to help.
+It provides a value of empathy since the maker of the website has been through the fitness struggle to get to their fitness goal, this can also be seen in the about us section. This value of empathy is reassuring since a user might have a goal that they are trying to reach but they might not know the best way to get their but this webvsite does.
+Running the project is easy, just run the code and you have access to the project.
